@@ -1,0 +1,3 @@
+common.css
+-category_index
+--margin-top: 0px;
