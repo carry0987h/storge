@@ -1,3 +1,6 @@
 common.css
 -category_index
 --margin-top: 0px;
+
+Wait list:
+$lang_username_or_email_empty
